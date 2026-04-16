@@ -206,10 +206,6 @@ python backtest/backtest_preprocess.py
 
 Then launch JupyterLab from the project root and open the notebooks:
 
-```bash
-jupyter lab
-```
-
 Open and run:
 - `backtest/portfolio_backtest.ipynb` — decile-sorted ensemble portfolios
 - `backtest/performance_metrics.ipynb` — Sharpe, Sortino, drawdown, plots
