@@ -1,9 +1,5 @@
 # chart-vit-xai
 
-Official implementation of "Interpretable chart-based decision support for cross-sectional stock selection".
-
----
-
 ## Overview
 
 This paper applies a Vision Transformer to candlestick chart images to predict the cross-sectional direction of U.S. stock returns.
