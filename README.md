@@ -30,10 +30,7 @@ Pipeline:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Availability](#data-availability)
-- [Pre-trained Weights](#pre-trained-weights)
-- [Citation](#citation)
-- [Acknowledgments](#acknowledgments)
-
+- 
 ---
 
 ## Project Structure
