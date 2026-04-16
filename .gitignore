@@ -1,0 +1,5 @@
+# Data directory (CRSP proprietary data + intermediate files)
+DB/
+
+# Trained Model
+experiments/
