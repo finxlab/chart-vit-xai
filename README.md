@@ -30,7 +30,7 @@ Pipeline:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Availability](#data-availability)
-- 
+
 ---
 
 ## Project Structure
