@@ -1,9 +1,5 @@
 # chart-vit-xai
 
-Official implementation of "Interpretable chart-based decision support for cross-sectional stock selection".
-
----
-
 ## Overview
 
 This paper applies a Vision Transformer to candlestick chart images to predict the cross-sectional direction of U.S. stock returns.
@@ -30,9 +26,6 @@ Pipeline:
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Availability](#data-availability)
-- [Pre-trained Weights](#pre-trained-weights)
-- [Citation](#citation)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -208,10 +201,6 @@ python backtest/backtest_preprocess.py
 ```
 
 Then launch JupyterLab from the project root and open the notebooks:
-
-```bash
-jupyter lab
-```
 
 Open and run:
 - `backtest/portfolio_backtest.ipynb` — decile-sorted ensemble portfolios
